@@ -28,4 +28,5 @@ New Terminal을 생성해주고 아래와 같이 나오면 동작 시작입니�
 ![image](https://user-images.githubusercontent.com/78472987/110298037-74703780-8037-11eb-9d49-3b52a5baf2b5.png)
 ![image](https://user-images.githubusercontent.com/78472987/110297953-560a3c00-8037-11eb-9695-bf4a683bc425.png)
 
-Streamlit이 동작하기 시작했다면, Streamlit환경에서 실행할 app을 만들고, 새로 만든 Terminal에 streamlit run 파일이름.py 입력하면 실행됩니다.
+Streamlit이 동작하기 시작했다면, Streamlit환경에서 실행할 app을 만들고, 새로 만든 Terminal에
+streamlit run 파일이름.py 입력하면 실행됩니다.
