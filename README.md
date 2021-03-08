@@ -24,6 +24,7 @@ python --version 3.6이상이어야 설치 가능합니다.
 pip install streamlit 입력
 Ctrl + Shift + P 입력하여 Python : Selct Interpreter 선택하여 streamlit:conda 선택합니다.
 New Terminal을 생성해주고 아래와 같이 나오면 동작 시작입니다.
+
 ![image](https://user-images.githubusercontent.com/78472987/110298037-74703780-8037-11eb-9d49-3b52a5baf2b5.png)
 
 ![image](https://user-images.githubusercontent.com/78472987/110297953-560a3c00-8037-11eb-9695-bf4a683bc425.png)
